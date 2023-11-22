@@ -1,4 +1,4 @@
-import React, {Children, Suspense} from 'react'
+import {Children, Suspense} from 'react'
 
 import { BrowserRouter } from "react-router-dom";
 import {Routes, Route, NavLink, Navigate} from 'react-router-dom';
